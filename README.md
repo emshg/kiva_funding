@@ -1,0 +1,4 @@
+# kiva_funding
+### Project Description
+[Kiva](https://www.kaggle.com/datasets/kiva/data-science-for-good-kiva-crowdfunding?select=loan_theme_ids.csv) brings together researchers and students to develop localized models to prdeict the poverty levels in the areas where Kiva's users live.
+In support of Kiva's misssion to provide crowdfunding serivce in regions with poverty, we are developing models to predict the loan amount based on the given dataset. The prediction of the borrowing amount for the loan application helps to provide a reference for Kiva lenders. Ideally, Kiva lenders can make loans based on a forecasted borrowing amount. The prediction of the loan amount can not only reduce the information asymmetry between the lender and the borrower but also improve the service quality of the Kiva platform.
